@@ -1,0 +1,19 @@
+{
+    "name": "payment-app",
+    "version": "1.0.0",
+    "description": "Resilient Payment API with Retry, Circuit Breaker, and LLM Summary",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "body-parser": "^1.20.2",
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "openai": "^4.37.0",
+      "uuid": "^9.0.1"
+    }
+  }
+  
